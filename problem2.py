@@ -1,3 +1,6 @@
+# Student Information
+# Name: Tamara Chèvre
+# Date: 05.10.2025
 """
 Problem 2: Temperature Converter
 Convert between Celsius and Fahrenheit temperatures.

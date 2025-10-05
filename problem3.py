@@ -1,3 +1,6 @@
+# Student Information
+# Name: Tamara Chèvre
+# Date: 05.10.2025
 """
 Problem 3: Number Analysis
 Analyze a list of numbers provided by the user.

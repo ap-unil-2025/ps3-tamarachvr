@@ -1,3 +1,6 @@
+# Student Information
+# Name: Tamara Chèvre
+# Date: 05.10.2025
 """
 Problem 4: File Word Counter
 Process text files and perform various analyses.
